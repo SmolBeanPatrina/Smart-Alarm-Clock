@@ -39,3 +39,9 @@ Additionally, we've included a feature that sends an email to your boss if your 
 2. The program waits until the time matches your designated alarm time.
 3. It plays a jingle and waits for the photoresistor to detect a high frequency.
 4. If it doesn't detect for a long period of time, it will send an email using postfix.
+
+## Additional Information
+
+This project was completed in ENSC 351 at Simon Fraser University from September-December 2023.
+Originally developed by Patrina Cheung, Alex Su, Viraj Patel, and Zhaofeng Jiang
+Report from the orignal project can be found [here](ENSC351_Final_Project_Write-Up_Guide.pdf)
