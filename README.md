@@ -5,6 +5,8 @@ Our Smart Alarm Clock will make sure you wake up with a few adjustments to the t
 It includes a photoresistor which detects when your light has been turned on before deactivation. 
 Additionally, we've included a feature that sends an email to your boss if your alarm hasn't been deactivated for an extended period of time. The fear of this feature activating is sure to wake you up!
 
+![Circuit](SmartAlarmClockCircuit.jpg)
+
 ## Tech Stack
 
 ### Hardware
